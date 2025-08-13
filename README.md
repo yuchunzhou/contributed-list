@@ -26,6 +26,7 @@ I dropped my GH accounts for a few times because of some reasons, this repo reor
 
 #### nimble
 
+- [fix #725](https://github.com/nim-lang/nimble/pull/731/commits/0824b329adcb34d5c115a8d5a3585c235ff3b170)
 - [add vcs to the new created project](https://github.com/nim-lang/nimble/commit/bbb586dbfc0b5c3cd8e7684223b88f150cc3fa3f)
 
 ### Rust
