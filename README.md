@@ -1,4 +1,11 @@
+I dropped my GH accounts for a few times because of some reasons, this repo reords some links which are linked to the commites with those dropped accounts:
+
 ### Emacs
+
+#### company-mode
+
+- [Add nim programming language keywords to company-keywords.el](https://github.com/company-mode/company-mode/commit/890797d3d7ca9c6703aac11753dd1513de67d46d)
+- [Add keywords for lua mode](https://github.com/company-mode/company-mode/commit/6b66407b6c7e669bc049deb74c42cd99155daeb4)
 
 ### Nim
 
