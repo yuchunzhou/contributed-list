@@ -1,5 +1,3 @@
-I dropped my GH accounts for a few times because of some reasons, this repo reords some links linked to the commites which were committed with those dropped accounts:
-
 ### Emacs
 
 #### company-mode
